@@ -1,0 +1,1 @@
+[clicke](https://www.databricks.com/learn/certification/data-engineer-associate)
